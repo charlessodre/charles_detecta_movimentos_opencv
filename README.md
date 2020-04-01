@@ -10,6 +10,10 @@
 <p>https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html</p>
 <p>https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/</p>
 
+<p>Para saber mais sobre o OpenCV</p>
+<p>https://opencv.org/</p>
+<p>https://pt.wikipedia.org/wiki/OpenCV</p>
+
 ## Informação sobre os arquivos:
 <p> <b>detecta_movimento.py </b> - Esse é o programa principal que realiza a detecção de movimentos em um vídeo. </p>
 
