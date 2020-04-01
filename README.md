@@ -2,7 +2,7 @@
 
 <p> O objetivo deste projeto é realizar alguns estudos/testes na área de visão computacional, especialmente na detecção de movimentos em um vídeo. </p>
 
-<p> Nesse estudo vamos utilizar a biblioteca <b> OpenCV (Open Source Computer Vision Library) versão 4.1.1</b> para realizar alguns testes de reconhecimento de movimentos. </p>
+<p> Nesse estudo vamos utilizar a biblioteca <b> OpenCV (Open Source Computer Vision Library) versão 4.1.1</b> para realizar alguns testes de detecção de movimentos. </p>
 <p> A análise que vamos realizar será a contagem de entradas ocorridas nas portas localizadas na esquerda e direita do vídeo. </p>
 
 <p> Os exemplos utilizados neste estudo foram baseados nos sites: </p>
