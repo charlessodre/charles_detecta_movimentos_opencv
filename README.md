@@ -8,7 +8,7 @@
 <p> Os exemplos utilizados neste estudo foram baseados nos sites: </p>
 
 <p>https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html</p>
-<p>https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/</p>A
+<p>https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/</p>
 
 ## Informação sobre os arquivos:
 <p> <b>detecta_movimento.py </b> - Esse é o programa principal que realiza a detecção de movimentos em um vídeo. </p>
